@@ -30,7 +30,7 @@ A modern, responsive portfolio website built with React and Tailwind CSS.
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/portfolio.git
+git clone https://github.com/aasthamishra19/portfolio.git
 ```
 
 2. Navigate to the project directory
@@ -88,4 +88,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Aastha Mishra - [aasthamishra.mystrikingly.com](https://aasthamishra.mystrikingly.com)
 
-Project Link: [https://github.com/yourusername/portfolio](https://github.com/yourusername/portfolio) 
+Project Link: [https://github.com/aasthamishra19/portfolio](https://github.com/aasthamishra19/portfolio) 
