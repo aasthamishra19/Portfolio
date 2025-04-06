@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Aastha's Portfolio
 
 A modern, responsive portfolio website built with React and Tailwind CSS.
@@ -89,3 +90,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Aastha Mishra - [aasthamishra.mystrikingly.com](https://aasthamishra.mystrikingly.com)
 
 Project Link: [https://github.com/aasthamishra19/portfolio](https://github.com/aasthamishra19/portfolio) 
+=======
+# Portfolio
+>>>>>>> 0f1f80bab33f9a30586173518095329e269363a1
