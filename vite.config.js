@@ -10,6 +10,15 @@ export default defineConfig({
         outDir: 'dist',
         assetsDir: 'assets',
         sourcemap: true,
+        rollupOptions: {
+            output: {
+                manualChunks: {
+                    vendor: ['react', 'react-dom'],
+                    mui: ['@mui/material', '@mui/icons-material'],
+                    icons: ['react-icons']
+                }
+            }
+        }
     },
     resolve: {
         alias: {
@@ -20,4 +29,7 @@ export default defineConfig({
         port: 3000,
         open: true,
     },
+    optimizeDeps: {
+        include: ['react', 'react-dom', '@mui/material', '@mui/icons-material', 'react-icons']
+    }
 })
